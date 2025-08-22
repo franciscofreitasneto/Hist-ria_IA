@@ -138,8 +138,8 @@ def loop_interativo():
     """
     sistema = SistemaSemantico()
     print("Olá! Eu sou um sistema de perguntas e respostas baseado em casos.")
-    print("Diga-me algo, como: joao deu o livro para maria em a biblioteca")
-    print("Ou pergunte algo, como: quem deu o livro")
+    print("Diga-me algo, como: joao deu livro para maria em biblioteca")
+    print("Ou pergunte algo, como: quem deu livro")
     print("Digite 'sair' para terminar.")
     
     while True:
